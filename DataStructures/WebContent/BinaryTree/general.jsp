@@ -99,7 +99,8 @@ body {
 							The keys in the Binary Tree are not sorted ascending or
 							descending. <br /> <br /> Nodes without any children are
 							referred to as <i>"Leaf Nodes"</i>, and the node without any
-							parent is referred to as the <i>"Root Node"</i>
+							parent is referred to as the <i>"Root Node"</i> <br>
+							Press the applet and see the Leaf Nodes colored yellow and the Root Node colored red.
 						</div>
 						<%@ page language="java" %>
 						<div class="span4">
